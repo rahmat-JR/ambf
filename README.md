@@ -27,4 +27,4 @@ lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pemb
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
-### VIDEO TUTORIAL 
+#### VIDEO TUTORIAL 
