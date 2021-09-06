@@ -5,8 +5,8 @@ untuk mendapatkan konfirmasi api key anda perlu membayar nya ke : OVO, DANA, GOP
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
- - kirim api key anda ke whatsapp [Admin](https://wa.me/085865643276)
- - dan kirim bukti transfer ke whatsapp [Admin](https://wa.me/085865643276)
+ - kirim api key anda ke whatsapp [Admin](https://wa.me/6285864653276)
+ - dan kirim bukti transfer ke whatsapp [Admin](https://wa.me/6285864653276)
 maaf jika saya jarang on, saya sendiri punya kesibukan di real life
 
 #### CARA INSTALL SCRIPT 
