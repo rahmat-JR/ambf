@@ -28,3 +28,4 @@ lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pemb
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 #### VIDEO TUTORIAL 
+Video Tutorial : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
