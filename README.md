@@ -22,7 +22,7 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 ```
 
 jika sudah berhasil install script kamu pilih nomer <b>1. Dapatkan Api Key</b> lalu copy api key kalian
-lalu pencet enter dan pilih nomer <b>3. Daftar Api Key<b/> dan isi formulir pembelian script
+lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pembelian script
 
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
