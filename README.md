@@ -21,17 +21,20 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
  python run.py
 ```
 
+#### UPDATE SCRIPT
+untuk update tools
+``` 
+ git pull
+ python run.py
+````
+
+![template_s](https://i.ibb.co/whGT7kd/IMG-20210907-073808.jpg)
 jika sudah berhasil install script kamu pilih nomer <b>1. Dapatkan Api Key</b> lalu copy api key kalian
 lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pembelian script
-
-#### CARA UPGRADE PYTHON
-untuk upgrade python ke versi 3.9+ ketik : 
-```
-  pkg upgrade python
-``` 
 
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 #### VIDEO TUTORIAL 
-Video Tutorial Mendapatkan Api Key Dan Cara Daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
+ - Video Tutorial Mendapatkan Api Key Dan Cara Daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
+ - Video Tutorial Install Script nya : <b>[https://youtu.be/goFT6jvwMBs](https://youtu.be/goFT6jvwMBs)</b>
