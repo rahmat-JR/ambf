@@ -25,6 +25,8 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 untuk update tools
 ``` 
  git pull
+ rm -f *.so
+ cythonize -i ambf.c
  python run.py
 ````
 
