@@ -1776,7 +1776,7 @@ static const char __pyx_k_agustus[] = "agustus";
 static const char __pyx_k_ambf_py[] = "ambf.py";
 static const char __pyx_k_bi_xrwh[] = "bi_xrwh";
 static const char __pyx_k_cookies[] = "cookies";
-static const char __pyx_k_crack_2[] = "\r [*] crack ";
+static const char __pyx_k_crack_2[] = "\r [*] crack: ";
 static const char __pyx_k_current[] = "current";
 static const char __pyx_k_del_txt[] = "del_txt";
 static const char __pyx_k_exp_day[] = "exp_day";
@@ -17367,7 +17367,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 		ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(             # <<<<<<<<<<<<<<
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  */
   __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_sys); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 558, __pyx_L1_error)
@@ -17382,7 +17382,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
   /* "ambf.py":559
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))             # <<<<<<<<<<<<<<
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))             # <<<<<<<<<<<<<<
  * 	); sys.stdout.flush()
  * 	for pw in pwx:
  */
@@ -17391,7 +17391,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
   __pyx_t_8 = 0;
   __pyx_t_9 = 127;
   __Pyx_INCREF(__pyx_kp_u_crack_2);
-  __pyx_t_8 += 12;
+  __pyx_t_8 += 13;
   __Pyx_GIVEREF(__pyx_kp_u_crack_2);
   PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_kp_u_crack_2);
   __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_loop); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 559, __pyx_L1_error)
@@ -17473,7 +17473,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
 
   /* "ambf.py":560
  * 	sys.stdout.write(
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()             # <<<<<<<<<<<<<<
  * 	for pw in pwx:
  * 		pw = pw.lower()
@@ -17504,7 +17504,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
   /* "ambf.py":561
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  * 	for pw in pwx:             # <<<<<<<<<<<<<<
  * 		pw = pw.lower()
@@ -18894,7 +18894,7 @@ static PyObject *__pyx_pf_4ambf_26api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
     }
 
     /* "ambf.py":561
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  * 	for pw in pwx:             # <<<<<<<<<<<<<<
  * 		pw = pw.lower()
@@ -19222,7 +19222,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
  * 		ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(             # <<<<<<<<<<<<<<
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  */
   __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_sys); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 602, __pyx_L1_error)
@@ -19237,7 +19237,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   /* "ambf.py":603
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))             # <<<<<<<<<<<<<<
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))             # <<<<<<<<<<<<<<
  * 	); sys.stdout.flush()
  * 	try:
  */
@@ -19246,7 +19246,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   __pyx_t_8 = 0;
   __pyx_t_9 = 127;
   __Pyx_INCREF(__pyx_kp_u_crack_2);
-  __pyx_t_8 += 12;
+  __pyx_t_8 += 13;
   __Pyx_GIVEREF(__pyx_kp_u_crack_2);
   PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_kp_u_crack_2);
   __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_loop); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 603, __pyx_L1_error)
@@ -19328,7 +19328,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
 
   /* "ambf.py":604
  * 	sys.stdout.write(
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()             # <<<<<<<<<<<<<<
  * 	try:
  * 		for pw in pwx:
@@ -19359,7 +19359,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
   /* "ambf.py":605
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  * 	try:             # <<<<<<<<<<<<<<
  * 		for pw in pwx:
@@ -21333,7 +21333,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
 
       /* "ambf.py":605
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  * 	try:             # <<<<<<<<<<<<<<
  * 		for pw in pwx:
@@ -21585,7 +21585,7 @@ static PyObject *__pyx_pf_4ambf_28crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
     __pyx_L13_except_error:;
 
     /* "ambf.py":605
- * 		"\r [*] crack %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
+ * 		"\r [*] crack: %s/%s ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
  * 	try:             # <<<<<<<<<<<<<<
  * 		for pw in pwx:
