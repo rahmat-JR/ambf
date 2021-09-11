@@ -1,10 +1,11 @@
 Hallo user, untuk cara mendapatkan api key nya kalian harus run tools terlebih dahulu
 jika sudah mendapatkan api key kamu perlu konfirmasi api key nya ke <b>admin</b>
 
-untuk mendapatkan konfirmasi api key anda perlu membayar nya ke : OVO, DANA, GOPAY
+untuk konfirmasi api key anda perlu membayar ke : ``OVO, DANA, GOPAY``
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
+ - untuk harga sudah tertera di dalam script pada menu pendaftaran
  - kirim api key anda ke whatsapp [Admin](https://wa.me/6285864653276)
  - dan kirim bukti transfer ke whatsapp [Admin](https://wa.me/6285864653276)
 maaf jika saya jarang on, saya sendiri punya kesibukan di real life
