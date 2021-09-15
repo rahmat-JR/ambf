@@ -1460,7 +1460,7 @@ static PyObject *__pyx_builtin_KeyError;
 static PyObject *__pyx_builtin_IOError;
 static PyObject *__pyx_builtin_input;
 static PyObject *__pyx_builtin_range;
-static const char __pyx_k_[] = "    _____               _____ _____________________\n   /  _  \\             /     \\______   \\_   _____/\n  /  /_\\  \\   ______  /  \\ /  \\|    |  _/|    __)  \n /    |    \\ /_____/ /    Y    \\    |   \\|     \\   \n \\____|__  /         \\____|__  /______  /\\___  /   \n         \\/                  \\/       \\/     \\/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n";
+static const char __pyx_k_[] = "    _____               _____ _____________________\n   /  _  \\             /     \\______   \\_   _____/\n  /  /_\\  \\   ______  /  \\ /  \\|    |  _/|    __)  \n /    |    \\ /_____/ /    Y    \\    |   \\|     \\   \n \\____|__  /         \\____|__  /______  /\\___  /   \n         \\/                  \\/       \\/     \\/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n";
 static const char __pyx_k_0[] = "0";
 static const char __pyx_k_1[] = "1";
 static const char __pyx_k_2[] = "2";
@@ -2653,7 +2653,7 @@ static PyObject *__pyx_codeobj__113;
  * 
  * def logo():             # <<<<<<<<<<<<<<
  * 	os.system("clear")
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  */
 
 /* Python wrapper */
@@ -2685,7 +2685,7 @@ static PyObject *__pyx_pf_4ambf_logo(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def logo():
  * 	os.system("clear")             # <<<<<<<<<<<<<<
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  * 
  */
   __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 58, __pyx_L1_error)
@@ -2713,7 +2713,7 @@ static PyObject *__pyx_pf_4ambf_logo(CYTHON_UNUSED PyObject *__pyx_self) {
   /* "ambf.py":59
  * def logo():
  * 	os.system("clear")
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")             # <<<<<<<<<<<<<<
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")             # <<<<<<<<<<<<<<
  * 
  * def data_user():
  */
@@ -2724,7 +2724,7 @@ static PyObject *__pyx_pf_4ambf_logo(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def logo():             # <<<<<<<<<<<<<<
  * 	os.system("clear")
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  */
 
   /* function exit code */
@@ -2743,7 +2743,7 @@ static PyObject *__pyx_pf_4ambf_logo(CYTHON_UNUSED PyObject *__pyx_self) {
 }
 
 /* "ambf.py":61
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
@@ -2994,7 +2994,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
   /* "ambf.py":61
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
@@ -24102,12 +24102,12 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * def logo():             # <<<<<<<<<<<<<<
  * 	os.system("clear")
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  */
   __pyx_codeobj__76 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_logo, 57, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__76)) __PYX_ERR(0, 57, __pyx_L1_error)
 
   /* "ambf.py":61
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
@@ -25663,7 +25663,7 @@ if (!__Pyx_RefNanny) {
  * 
  * def logo():             # <<<<<<<<<<<<<<
  * 	os.system("clear")
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  */
   __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_1logo, 0, __pyx_n_s_logo, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__76)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 57, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
@@ -25671,7 +25671,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
   /* "ambf.py":61
- * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus ketik \033[0;91mpython run.py remove\033[0;97m\n")
+ * 	print("    _____               _____ _____________________\n   /  _  \             /     \\______   \_   _____/\n  /  /_\  \   ______  /  \ /  \|    |  _/|    __)  \n /    |    \ /_____/ /    Y    \    |   \|     \   \n \____|__  /         \____|__  /______  /\___  /   \n         \/                  \/       \/     \/    \n  * untuk menghapus api key ketik \033[0;91mpython run.py remove\033[0;97m\n")
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
