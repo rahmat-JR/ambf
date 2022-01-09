@@ -1,43 +1,37 @@
-Hallo user, untuk cara mendapatkan api key nya kalian harus run tools terlebih dahulu
-jika sudah mendapatkan api key kamu perlu konfirmasi api key nya ke <b>admin</b>
+## Welcome to GitHub Pages
 
-untuk konfirmasi api key anda perlu membayar ke : ``OVO, DANA, PULSA``
-lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
+You can use the [editor on GitHub](https://github.com/rahmat-JR/mci/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-#### CARA UPGRADE KE PREMIUM
- - untuk harga sudah tertera di dalam script pada menu pendaftaran
- - kirim api key anda ke whatsapp [Admin](https://wa.me/6285864653276)
- - dan kirim bukti transfer ke whatsapp [Admin](https://wa.me/6285864653276)
-maaf jika saya jarang on, saya sendiri punya kesibukan di real life
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#### CARA INSTALL SCRIPT 
-download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan perintah dibawah ini.
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
- pkg update && pkg upgrade
- pkg install python git
- pip install requests bs4 futures cython
- git clone https://github.com/anggaxd/ambf
- cd $HOME/ambf
- cythonize -i ambf.c
- python run.py
-```
 
-#### UPDATE SCRIPT
-perintah untuk update tools ketik : 
-``` 
- git pull
- rm -f *.so
- cythonize -i ambf.c
- python run.py
-````
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![template_s](https://i.ibb.co/whGT7kd/IMG-20210907-073808.jpg)
-jika sudah berhasil install script kamu pilih nomer <b>1. Dapatkan Api Key</b> lalu copy api key kalian
-lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pembelian script
+### Jekyll Themes
 
-#### CATATAN
-gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahmat-JR/mci/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-#### VIDEO TUTORIAL 
- - Video Tutorial Mendapatkan Api Key Dan Cara Daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
- - Video Tutorial Install Script nya : <b>[https://youtu.be/goFT6jvwMBs](https://youtu.be/goFT6jvwMBs)</b>
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
